@@ -1,0 +1,538 @@
+[
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/3/30/Accept-Open_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307182406",
+        "text": "Accept/​Open"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/a/ac/Abandon_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307182349",
+        "text": "Abandon"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/2/26/Adapt_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307182425",
+        "text": "Adapt"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/e/e2/Advance_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307182450",
+        "text": "Advance"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/a/ae/After_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307182538",
+        "text": "After"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/a/aa/Again-Repeat_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307182557",
+        "text": "Again/​Repeat"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/1/19/All_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307182619",
+        "text": "All"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/3/33/Answer_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307182645",
+        "text": "Answer"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/0/0c/Attack-War_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307182657",
+        "text": "Attack/​War"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/5/5c/Avoid_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307182710",
+        "text": "Avoid"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/9/94/Balance-Perfection_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307182723",
+        "text": "Balance/​Perfection"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/4/4a/Barrier_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307182736",
+        "text": "Barrier"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/2/23/Before_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307182749",
+        "text": "Before"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/6/69/Begin_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307182827",
+        "text": "Begin"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/5/51/Being-Human_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307182846",
+        "text": "Being/​Human"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/b/bb/Body_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307182900",
+        "text": "Body"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/a/a8/Breathe-Live_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307182912",
+        "text": "Breathe/​Live"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/d/d4/Capture_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307182925",
+        "text": "Capture"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/9/98/Change_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183015",
+        "text": "Change"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/9/97/Chaos_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183028",
+        "text": "Chaos"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/7/70/Civilization_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183040",
+        "text": "Civilization"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/0/05/Clear_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183123",
+        "text": "Clear"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/1/1c/Clear_All_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183107",
+        "text": "Clear All"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/c/c9/Collective-Shapers_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183145",
+        "text": "Collective/​Shapers"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/d/d7/Complex_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183200",
+        "text": "Complex"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/e/e1/Conflict_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183214",
+        "text": "Conflict"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/e/eb/Consequence_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183227",
+        "text": "Consequence"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/3/39/Contemplate_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183241",
+        "text": "Contemplate"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/8/8a/Courage_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183313",
+        "text": "Courage"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/6/68/Create_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183328",
+        "text": "Create"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/7/77/Creativity-Idea-Thought_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183345",
+        "text": "Creativity/​Idea/​Thought"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/4/4c/Danger_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183423",
+        "text": "Danger"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/4/42/Data_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183436",
+        "text": "Data"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/b/ba/Defend_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183506",
+        "text": "Defend"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/a/a9/Destination_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183520",
+        "text": "Destination"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/9/93/Destiny_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183530",
+        "text": "Destiny"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/4/46/Destroy_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183552",
+        "text": "Destroy"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/9/9a/Deteriorate_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183644",
+        "text": "Deteriorate"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/9/92/Death-Die_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183451",
+        "text": "Death/​Die"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/d/de/Difficult_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183657",
+        "text": "Difficult"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/6/6d/Discover_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183710",
+        "text": "Discover"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/9/98/Distance-Outside_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183722",
+        "text": "Distance/​Outside"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/2/24/Easy_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183747",
+        "text": "Easy"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/d/d3/End_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183800",
+        "text": "End"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/0/01/Enlightened-Enlightenment_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183813",
+        "text": "Enlightened/​Enlightenment"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/2/23/Equal_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183844",
+        "text": "Equal"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/e/ec/Escape_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183901",
+        "text": "Escape"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/d/db/Evolution-Progress-Success_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183913",
+        "text": "Evolution/​Progress/​Success"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/d/db/Failure_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183924",
+        "text": "Failure"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/a/a1/Fear_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183939",
+        "text": "Fear"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/4/44/Field_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307183953",
+        "text": "Field"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/1/13/Follow_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184006",
+        "text": "Follow"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/1/19/Forget_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184017",
+        "text": "Forget"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/4/44/Future_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184031",
+        "text": "Future"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/4/45/Gain_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184047",
+        "text": "Gain"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/4/4c/Grow_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184103",
+        "text": "Grow"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/c/c4/Harm_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184118",
+        "text": "Harm"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/2/28/Harmony-Peace_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184128",
+        "text": "Harmony/​Peace"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/9/9d/Have_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184139",
+        "text": "Have"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/9/99/Help_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184151",
+        "text": "Help"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/2/21/Hide_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184200",
+        "text": "Hide"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/5/5a/I-Me_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184256",
+        "text": "I/​Me"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/1/16/Ignore_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184216",
+        "text": "Ignore"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/3/36/Imperfect_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184324",
+        "text": "Imperfect"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/2/2e/Improve_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184337",
+        "text": "Improve"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/9/90/Impure_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184348",
+        "text": "Impure"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/5/51/Individual-Self_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184413",
+        "text": "Individual/​Self"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/5/5e/Inside-Not_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184441",
+        "text": "Inside/​Not"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/f/f4/Intelligence_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184615",
+        "text": "Intelligence"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/d/d8/Interrupt_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184630",
+        "text": "Interrupt"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/a/a2/Journey_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184640",
+        "text": "Journey"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/f/f3/Key_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184652",
+        "text": "Key"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/f/ff/Knowledge_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184704",
+        "text": "Knowledge"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/4/42/Lead_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184721",
+        "text": "Lead"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/2/2a/Legacy_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184744",
+        "text": "Legacy"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/8/86/Less_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184801",
+        "text": "Less"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/b/b7/Liberate_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184825",
+        "text": "Liberate"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/3/36/Lie_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184836",
+        "text": "Lie"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/e/e8/Link_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307184846",
+        "text": "Link"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/6/63/Live_Again-Reincarnate_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185002",
+        "text": "Live Again/​Reincarnate"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/9/90/Lose_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185030",
+        "text": "Lose"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/4/49/Message_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185049",
+        "text": "Message"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/f/f0/Mind_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185100",
+        "text": "Mind"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/7/7f/More_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185120",
+        "text": "More"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/f/fd/Mystery_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185135",
+        "text": "Mystery"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/4/44/Nature_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185148",
+        "text": "Nature"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/4/4a/New_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185330",
+        "text": "New"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/1/18/N%27Zeer_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185453",
+        "text": "N'Zeer"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/6/6a/Nemesis_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185309",
+        "text": "Nemesis"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/7/73/Nourish_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185340",
+        "text": "Nourish"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/9/99/Now-Present_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185440",
+        "text": "Now/​Present"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/2/24/Old_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185509",
+        "text": "Old"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/8/84/Open_All_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185519",
+        "text": "Open All"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/2/2f/Osiris_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185529",
+        "text": "Osiris"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/4/40/Past_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185552",
+        "text": "Past"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/e/e6/Path_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185605",
+        "text": "Path"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/2/21/Perspective_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185616",
+        "text": "Perspective"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/f/fc/Portal_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185634",
+        "text": "Portal"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/a/ab/Potential_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185657",
+        "text": "Potential"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/7/76/Presence_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185716",
+        "text": "Presence"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/e/ee/Pure_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185729",
+        "text": "Pure"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/0/07/Pursue_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185740",
+        "text": "Pursue"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/8/8a/Question_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185751",
+        "text": "Question"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/2/21/React_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185804",
+        "text": "React"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/d/d1/Rebel_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185816",
+        "text": "Rebel"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/e/ec/Recharge-Repair_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185828",
+        "text": "Recharge/​Repair"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/5/54/Resistance-Struggle_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185839",
+        "text": "Resistance/​Struggle"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/5/5e/Restraint_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185853",
+        "text": "Restraint"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/4/41/Retreat_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185908",
+        "text": "Retreat"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/7/77/Safety_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185925",
+        "text": "Safety"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/3/30/Save_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185935",
+        "text": "Save"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/6/62/Search_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185945",
+        "text": "Search"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/a/a4/See_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185957",
+        "text": "See"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/a/a3/Separate_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307190023",
+        "text": "Separate"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/7/79/Share_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307190034",
+        "text": "Share"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/8/82/Shield_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307190101",
+        "text": "Shield"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/8/82/Simple_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307190114",
+        "text": "Simple"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/e/ee/Soul_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307190127",
+        "text": "Soul"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/5/55/Stability-Stay_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307190140",
+        "text": "Stability/​Stay"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/c/c7/Star_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307190151",
+        "text": "Star"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/b/b9/Strong_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307190206",
+        "text": "Strong"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/7/7c/Technology_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307190227",
+        "text": "Technology"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/7/78/Them_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307181448",
+        "text": "Them"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/4/41/Together_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307190242",
+        "text": "Together"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/d/d6/Truth_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307190252",
+        "text": "Truth"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/e/e7/Unbounded_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307190307",
+        "text": "Unbounded"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/b/b1/Us-We_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307190329",
+        "text": "Us/​We"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/0/04/Use_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307190318",
+        "text": "Use"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/9/9f/Victory_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307190356",
+        "text": "Victory"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/1/10/Want_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307190405",
+        "text": "Want"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/4/4d/Weak_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307190419",
+        "text": "Weak"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/2/2e/Worth_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307190431",
+        "text": "Worth"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/7/7b/XM_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307190444",
+        "text": "XM"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/ingress/images/5/5d/You-Your_Glyph.png/revision/latest/scale-to-width-down/50?cb=20210307185540",
+        "text": "You/​Your"
+    }
+]
